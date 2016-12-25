@@ -10,4 +10,6 @@ header:
   excerpt: 'Software and embedded systems engineering.'
 ---
 
-[Resume]({{ "/assets/BrianHendersonResume_website.pdf" | absolute_url }})
+
+
+[Download Resume PDF]({{ "/assets/BrianHendersonResume_website.pdf" | absolute_url }})

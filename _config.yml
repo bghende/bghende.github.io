@@ -49,7 +49,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : vbwX3kDxMU0I0l__2ahsWcWsaqZTvoLCtZj2L_PhS1M
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -81,16 +81,16 @@ author:
   name             : "Brian Henderson"
   avatar           : "/assets/images/bio_pic_round.png"
   bio              : "Embedded Systems Engineer"
-  location         : # "Somewhere"
+  location         : "Albuquerque, NM USA"
   email            :
-  uri              :
+  uri              : "/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "bghende"
   google_plus      :
   keybase          :
   instagram        :
