@@ -41,13 +41,13 @@ I have over 15 years of experience designing and implementing complex hardware a
 | Python                    | NumPy / SciPy / IPython / Django        |
 
 
-## Specific Skills
+## Skills and Expertise
 * Embedded Systems Design
 * FPGA Design and Programming
 * Digital Image and Signal Processing
 * 2D / 3D Computer Vision Algorithms
 * Linux / Windows System Programming
-* Real-time Systems Programming
+* Real-time Systems 
 * Xilinx Zynq SoC Programming
 * iOS / Swift
 * Network Programming (TCP, UDP)
