@@ -33,12 +33,15 @@ I have over 15 years of experience designing and implementing complex hardware a
 
 ## Programming Languages / Environments
 
-| Language                  | Environment                             |
-| ------------------------- | --------------------------------------- |
-| C/C++                     | QT / Visual Studio / Eclipse / Embedded |
-| C# / .NET                 | Visual Studio / Windows Forms           |
-| VHDL                      | Xilinx ISE / Vivado / LabVIEW FPGA      |
-| Python                    | NumPy / SciPy / IPython / Django        |
+| Language                  | Environments / Platforms                      |
+| ------------------------- | ---------------------------------------       |
+| C/C++                     | QT / Visual Studio / Eclipse / Embedded       |
+| C# / .NET                 | Visual Studio / Windows Forms                 |
+| VHDL                      | Xilinx ISE / Vivado / LabVIEW FPGA            |
+| Python                    | NumPy / SciPy / IPython / Django / IronPython |
+| LabVIEW                   | LabVIEW / LabVIEW RT / LabVIEW FPGA           |
+| Matlab                    | Mathworks MATLAB / GNU Octave                 |
+| Swift                     | Xcode                                         |
 
 
 ## Skills and Expertise

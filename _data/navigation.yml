@@ -2,6 +2,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Software"
+    url: /software/
+  - title: "Firmware"
+    url: /firmware/
+  - title: "Electronics"
+    url: /electronics/
 
   - title: "Contact"
     url: /contact/
