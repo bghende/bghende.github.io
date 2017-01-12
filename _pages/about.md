@@ -21,21 +21,18 @@ Please [contact me]({{ "/contact/" | absolute_url }}) to find out how we can wor
 ## Experience
 I have over 15 years of experience designing and implementing complex hardware and software systems for defense, photonics, manufacturing, and high-tech research sectors. 
 
-2015-2016: Skorpios Technologies
--------------------------------
+### 2015-2016: Skorpios Technologies
 * Development of machine vision guided automated fiber-optic alignment systems
 * Database systems for production material tracking and test reporting
 * Test data analysis and parameter extraction for silicon photonics devices
 
-2006-2015: MZA Associates Corporation
---------------------------------------
+### 2006-2015: MZA Associates Corporation
 * Real-time digital control systems for high-performance tracking and adaptive optics applications using CPUs and FPGAs
 * Heterogeneous networked computing systems with FPGA computing resources, real-time operating systems, and graphical user control consoles
 * Implementation of image processing and control algorithms on CPUs and FPGAs
 * Analog and digital circuit design, component selection, PCB layout, and troubleshooting
 
-2004-2006: Sandia National Laboratories
-----------------------------------------
+### 2004-2006: Sandia National Laboratories
 * Development, implementation, and testing of 3D computer vision algorithms for automatic calibration of multi-camera systems
 
 ## Education
