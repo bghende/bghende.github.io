@@ -27,6 +27,7 @@ Listed below is a selection of the embedded architectures and tools that I have 
 * PIC32 MCU
 * NetBurner (68K)
 * ARM
+* MSP430
 
 ## Tools and Compilers
 
