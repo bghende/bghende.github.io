@@ -21,6 +21,11 @@ Please [contact me]({{ "/contact/" | absolute_url }}) to find out how we can wor
 ## Experience
 I have over 15 years of experience designing and implementing complex hardware and software systems for defense, photonics, manufacturing, and high-tech research sectors. 
 
+### 2016-Present: Next State Systems, Owner
+* Development of embedded test and evaluation systems for custom ASICs
+* Software and firmware development for custom high-speed x-ray cameras
+* Software and firmware engineering consulting
+
 ### 2015-2016: Skorpios Technologies
 * Development of machine vision guided automated fiber-optic alignment systems
 * Database systems for production material tracking and test reporting
