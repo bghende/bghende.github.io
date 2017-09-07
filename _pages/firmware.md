@@ -36,6 +36,7 @@ Listed below is a selection of the embedded architectures and tools that I have 
 * Xilinx ISim RTL Simulator
 * LabVIEW FPGA
 * LabVIEW Real-Time
+* TI Code Composer Studio
 * Microchip MPLAB
 * gcc/gdb
  
