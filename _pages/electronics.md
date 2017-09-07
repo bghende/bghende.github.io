@@ -10,7 +10,7 @@ header:
 ---
 
 
-Development of a complete embedded solution requires knowledge of electronic systems in order to interface to the outside world. In my designs, I utilize COTS modules and daughter cards whenever possible to speed development and reduce risk. I use CadSoft EAGLE for schematic capture and PCB layout. I also have a working knowledge of a modern electronics laboratory and am well versed in electronics troubleshooting techniques and tools. 
+Development of a complete embedded solution requires knowledge of electronic systems in order to interface to the outside world. In my designs, I utilize COTS modules and daughter cards whenever possible to speed development and reduce risk. I use AUTODESK EAGLE for schematic capture and PCB layout. I also have a working knowledge of a modern electronics laboratory and am well versed in electronics troubleshooting techniques and tools. 
 
 ## Design Skills
 * Custom test boards
@@ -19,3 +19,7 @@ Development of a complete embedded solution requires knowledge of electronic sys
 * ADC/DAC interfacing
 * Power Conditioning
 * Component Selection
+
+## Tools
+* AUTODESK EAGLE Schematic Capture and Layout
+* OrCAD Schematic Capture
